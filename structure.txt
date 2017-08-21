@@ -1,0 +1,18 @@
+[ROOT FOLDER=ecommerce]
+|-- index.php
+|-- system
+	|-- libraries (core classes)
+	|-- helpers (core functions)
+|-- app
+	|-- controllers (classes)
+	|-- models (classes)
+	|-- views (html files with .php extension)
+|-- assets
+	|-- admin
+		|-- css
+		|-- images
+		|-- js
+	|-- frontend
+		|-- css
+		|-- images
+		|-- js
